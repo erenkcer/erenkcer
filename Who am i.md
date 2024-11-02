@@ -2,7 +2,7 @@
 - 👀 I'm interested in Python, JAVA, C#, Flutter, Angular,React im learning these.
 - 🌱 I’m currently learning Pyhton. 
 - 📫 How to reach me erenkcer@gmail.com
-- [LinkedIn](www.linkedin.com/in/eren-kocer-85126b335)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/eren-kocer-85126b335)
 
 
 
