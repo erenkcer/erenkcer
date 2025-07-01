@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Eren! 👋
 
-<!--
-**erenkcer/erenkcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about software development and game development.
 
-Here are some ideas to get you started:
+- 💻 Currently focusing on **C#** and the .NET ecosystem
+- 🌱 Also interested in Python, Java, Flutter, Angular, and React
+- 🎮 I enjoy learning about game development and new technologies
+- 📫 How to reach me: erenkcer@gmail.com
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/eren-kocer-85126b335)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+erenkcer/erenkcer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--->
